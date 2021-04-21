@@ -1,0 +1,19 @@
+﻿  ofApp.cpp
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rodnt\onedrive\desktop\oldcomputer\school\sjsu\semester4\cs134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ofApp.vcxproj -> C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\ofApp_debug.exe
+  
+  	                   2	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodexL.dll
+  	  *EXTRA File 		 6942208	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\FreeImage.dll
+  
+  	                   1	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Users\rodnt\OneDrive\Desktop\oldComputer\School\SJSU\Semester4\CS134\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\ofApp\bin\fmodexL64.dll
